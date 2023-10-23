@@ -1,26 +1,26 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: AaravMehta59 # Your GitHub organization or username, where this repository lives
+repo: web-monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Giva Bot Backend
+    url: https://giva-bot.thenuggetlabs.repl.co
+  - name: The Nugget Labs Site
+    url: https://thenuggetlabs.repl.co/
+  - name: My Personal Site
+    url: https://itzaarav.netlify.app/
+  - name: Assist Dead Bot
+    url: https://axrxvs-assistant.thenuggetlabs.repl.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  baseUrl: /web-monitor
+  logoUrl: https://cdn.discordapp.com/avatars/1139179959965982800/a4ef72de4f239eaef905d93bc3229cc3.png?size=256
+  name: Web Monitor
+  introTitle: "**Web-Monitor** is the open-source uptime monitor and status page for our servers, powered entirely by Upptime/Github."
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/AaravMehta59/web-monitor/). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /

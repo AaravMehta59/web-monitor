@@ -4,18 +4,20 @@
     "url": "https://giva-bot.thenuggetlabs.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/giva-bot.thenuggetlabs.repl.co.ico",
     "slug": "giva-bot-backend",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 10644,
-    "timeDay": 10644,
-    "timeWeek": 10644,
-    "timeMonth": 10644,
-    "timeYear": 10644,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 5691,
+    "timeDay": 5691,
+    "timeWeek": 5691,
+    "timeMonth": 5691,
+    "timeYear": 5691,
+    "dailyMinutesDown": {
+      "2023-10-23": 0
+    }
   },
   {
     "name": "The Nugget Labs Site",
@@ -58,17 +60,19 @@
     "url": "https://axrxvs-assistant.thenuggetlabs.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/axrxvs-assistant.thenuggetlabs.repl.co.ico",
     "slug": "assist-dead-bot",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 326,
-    "timeDay": 326,
-    "timeWeek": 326,
-    "timeMonth": 326,
-    "timeYear": 326,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.90%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 357,
+    "timeDay": 357,
+    "timeWeek": 357,
+    "timeMonth": 357,
+    "timeYear": 357,
+    "dailyMinutesDown": {
+      "2023-10-23": 0
+    }
   }
 ]

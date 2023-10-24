@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/giva-bot.thenuggetlabs.repl.co.ico",
     "slug": "giva-bot-backend",
     "status": "up",
-    "uptime": "86.15%",
-    "uptimeDay": "86.15%",
-    "uptimeWeek": "86.15%",
-    "uptimeMonth": "86.15%",
-    "uptimeYear": "86.15%",
-    "time": 3899,
-    "timeDay": 3899,
-    "timeWeek": 3899,
-    "timeMonth": 3899,
-    "timeYear": 3899,
-    "dailyMinutesDown": {
-      "2023-10-23": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2959,
+    "timeDay": 2959,
+    "timeWeek": 2959,
+    "timeMonth": 2959,
+    "timeYear": 2959,
+    "dailyMinutesDown": {}
   },
   {
     "name": "The Nugget Labs Site",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 500,
-    "timeDay": 500,
-    "timeWeek": 500,
-    "timeMonth": 500,
-    "timeYear": 500,
+    "time": 492,
+    "timeDay": 492,
+    "timeWeek": 492,
+    "timeMonth": 492,
+    "timeYear": 492,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 538,
-    "timeDay": 538,
-    "timeWeek": 538,
-    "timeMonth": 538,
-    "timeYear": 538,
+    "time": 281,
+    "timeDay": 281,
+    "timeWeek": 281,
+    "timeMonth": 281,
+    "timeYear": 281,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/axrxvs-assistant.thenuggetlabs.repl.co.ico",
     "slug": "assist-dead-bot",
     "status": "up",
-    "uptime": "86.07%",
-    "uptimeDay": "86.07%",
-    "uptimeWeek": "86.07%",
-    "uptimeMonth": "86.07%",
-    "uptimeYear": "86.07%",
-    "time": 703,
-    "timeDay": 703,
-    "timeWeek": 703,
-    "timeMonth": 703,
-    "timeYear": 703,
-    "dailyMinutesDown": {
-      "2023-10-23": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 560,
+    "timeDay": 560,
+    "timeWeek": 560,
+    "timeMonth": 560,
+    "timeYear": 560,
+    "dailyMinutesDown": {}
   }
 ]

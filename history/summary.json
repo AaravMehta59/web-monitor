@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2959,
-    "timeDay": 2959,
+    "timeDay": 140,
     "timeWeek": 2959,
     "timeMonth": 2959,
     "timeYear": 2959,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 492,
-    "timeDay": 492,
+    "timeDay": 484,
     "timeWeek": 492,
     "timeMonth": 492,
     "timeYear": 492,
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 281,
-    "timeDay": 281,
+    "timeDay": 23,
     "timeWeek": 281,
     "timeMonth": 281,
     "timeYear": 281,
@@ -58,17 +58,19 @@
     "url": "https://axrxvs-assistant.thenuggetlabs.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/axrxvs-assistant.thenuggetlabs.repl.co.ico",
     "slug": "assist-dead-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 560,
-    "timeDay": 560,
-    "timeWeek": 560,
-    "timeMonth": 560,
-    "timeYear": 560,
-    "dailyMinutesDown": {}
+    "time": 607,
+    "timeDay": 462,
+    "timeWeek": 607,
+    "timeMonth": 607,
+    "timeYear": 607,
+    "dailyMinutesDown": {
+      "2023-10-24": 0
+    }
   }
 ]

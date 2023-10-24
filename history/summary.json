@@ -58,19 +58,19 @@
     "url": "https://axrxvs-assistant.thenuggetlabs.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/axrxvs-assistant.thenuggetlabs.repl.co.ico",
     "slug": "assist-dead-bot",
-    "status": "down",
-    "uptime": "96.63%",
-    "uptimeDay": "95.70%",
-    "uptimeWeek": "96.63%",
-    "uptimeMonth": "96.63%",
-    "uptimeYear": "96.63%",
-    "time": 566,
-    "timeDay": 498,
-    "timeWeek": 566,
-    "timeMonth": 566,
-    "timeYear": 566,
+    "status": "up",
+    "uptime": "95.65%",
+    "uptimeDay": "94.39%",
+    "uptimeWeek": "95.65%",
+    "uptimeMonth": "95.65%",
+    "uptimeYear": "95.65%",
+    "time": 533,
+    "timeDay": 460,
+    "timeWeek": 533,
+    "timeMonth": 533,
+    "timeYear": 533,
     "dailyMinutesDown": {
-      "2023-10-24": 62
+      "2023-10-24": 81
     }
   }
 ]

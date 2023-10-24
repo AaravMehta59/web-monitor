@@ -4,7 +4,7 @@
     "url": "https://giva-bot.thenuggetlabs.repl.co",
     "icon": "https://icons.duckduckgo.com/ip3/giva-bot.thenuggetlabs.repl.co.ico",
     "slug": "giva-bot-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2959,
     "timeMonth": 2959,
     "timeYear": 2959,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-24": 0
+    }
   },
   {
     "name": "The Nugget Labs Site",
@@ -59,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/axrxvs-assistant.thenuggetlabs.repl.co.ico",
     "slug": "assist-dead-bot",
     "status": "up",
-    "uptime": "95.14%",
+    "uptime": "95.32%",
     "uptimeDay": "93.15%",
-    "uptimeWeek": "95.14%",
-    "uptimeMonth": "95.14%",
-    "uptimeYear": "95.14%",
+    "uptimeWeek": "95.32%",
+    "uptimeMonth": "95.32%",
+    "uptimeYear": "95.32%",
     "time": 484,
     "timeDay": 412,
     "timeWeek": 484,

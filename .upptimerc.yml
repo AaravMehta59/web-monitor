@@ -11,6 +11,8 @@ sites:
     url: https://itzaarav.netlify.app/
   - name: Assist Dead Bot
     url: https://axrxvs-assistant.thenuggetlabs.repl.co
+  - name: Axis API Endpoint (ver)
+    url: https://api.thenuggetlabs.repl.co/version
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

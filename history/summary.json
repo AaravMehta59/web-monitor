@@ -80,19 +80,19 @@
     "url": "https://api.thenuggetlabs.repl.co/version",
     "icon": "https://icons.duckduckgo.com/ip3/api.thenuggetlabs.repl.co.ico",
     "slug": "axis-api-endpoint-ver",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1143,
-    "timeDay": 4894,
-    "timeWeek": 1473,
-    "timeMonth": 1143,
-    "timeYear": 1143,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 1493,
+    "timeDay": 5043,
+    "timeWeek": 1902,
+    "timeMonth": 1493,
+    "timeYear": 1493,
     "dailyMinutesDown": {
-      "2023-11-04": 0
+      "2023-11-04": 16
     }
   }
 ]

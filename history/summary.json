@@ -59,11 +59,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/axrxvs-assistant.thenuggetlabs.repl.co.ico",
     "slug": "assist-dead-bot",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "98.99%",
     "uptimeDay": "97.35%",
     "uptimeWeek": "99.62%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "98.97%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "98.99%",
     "time": 502,
     "timeDay": 920,
     "timeWeek": 620,
@@ -80,17 +80,19 @@
     "url": "https://api.thenuggetlabs.repl.co/version",
     "icon": "https://icons.duckduckgo.com/ip3/api.thenuggetlabs.repl.co.ico",
     "slug": "axis-api-endpoint-ver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 238,
-    "timeWeek": 319,
-    "timeMonth": 302,
-    "timeYear": 302,
-    "dailyMinutesDown": {}
+    "time": 1143,
+    "timeDay": 4894,
+    "timeWeek": 1473,
+    "timeMonth": 1143,
+    "timeYear": 1143,
+    "dailyMinutesDown": {
+      "2023-11-04": 0
+    }
   }
 ]

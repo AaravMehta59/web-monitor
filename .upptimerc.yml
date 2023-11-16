@@ -6,11 +6,9 @@ sites:
   - name: Giva Bot Backend
     url: https://giva-bot.thenuggetlabs.repl.co
   - name: BitQuote Co. Website
-    url: https://bitquoteco.netlify.app/
+    url: https://bitquote.netlify.app/
   - name: My Personal Site
     url: https://itzaarav.netlify.app/
-  - name: Assist Dead Bot
-    url: https://axrxvs-assistant.thenuggetlabs.repl.co
   - name: Axis API Endpoint 
     url: https://api.thenuggetlabs.repl.co/version
 

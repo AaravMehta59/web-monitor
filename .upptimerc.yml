@@ -11,6 +11,8 @@ sites:
     url: https://itzaarav.netlify.app/
   - name: Axis API Endpoint 
     url: https://api.thenuggetlabs.repl.co/version
+  - name: Legacy Giva Bot
+    url : https://givalegacy.thenuggetlabs.repl.co/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

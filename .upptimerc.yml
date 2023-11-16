@@ -8,7 +8,7 @@ sites:
   - name: BitQuote Co. Website
     url: https://bitquote.netlify.app/
   - name: My Personal Site
-    url: https://itzaarav.netlify.app/
+    url: https://aaravm.me/
   - name: Axis API Endpoint 
     url: https://api.thenuggetlabs.repl.co/version
   - name: Legacy Giva Bot

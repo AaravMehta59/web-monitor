@@ -10,7 +10,7 @@ sites:
   - name: My Personal Site
     url: https://aaravm.me/
   - name: Axis API Endpoint 
-    url: https://api.thenuggetlabs.repl.co/version
+    url: https://api.thenuggetlabs.repl.co/get/version
   - name: Legacy Giva Bot
     url : https://givalegacy.thenuggetlabs.repl.co/
 

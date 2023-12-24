@@ -3,13 +3,13 @@ owner: AaravMehta59 # Your GitHub organization or username, where this repositor
 repo: web-monitor # The name of this repository
 
 sites:
-  - name: Giva Bot Backend
+  - name: Giva Bot 
     url: https://giva-bot.thenuggetlabs.repl.co
-  - name: BitQuote Co. Website
+  - name: BQ_Web
     url: https://bitquote.netlify.app/
-  - name: My Personal Site
+  - name: aaravm.me
     url: https://aaravm.me/
-  - name: Axis API Endpoint 
+  - name: Axis API 
     url: https://api.thenuggetlabs.repl.co/get/version
   - name: Legacy Giva Bot
     url : https://givalegacy.thenuggetlabs.repl.co/

@@ -1,7 +1,7 @@
-url: https://giva-bot.thenuggetlabs.repl.co
+url: $GIVA_ENDPOINT
 status: up
 code: 200
-responseTime: 174
-lastUpdated: 2023-12-24T12:52:45.973Z
+responseTime: 229
+lastUpdated: 2023-12-24T12:57:24.753Z
 startTime: 2023-12-24T12:52:45.796Z
 generator: Upptime <https://github.com/upptime/upptime>

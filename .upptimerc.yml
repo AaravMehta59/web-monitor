@@ -16,7 +16,6 @@ sites:
 
 status-website:
   theme: night
-  apiBaseUrl: https://api.github.com
   baseUrl: /web-monitor
   logoUrl: https://cdn.discordapp.com/avatars/1139179959965982800/a4ef72de4f239eaef905d93bc3229cc3.png?size=256
   name: Web Monitor

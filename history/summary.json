@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "giva-bot",
     "status": "up",
-    "uptime": "99.18%",
+    "uptime": "99.21%",
     "uptimeDay": "91.92%",
     "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "99.18%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.21%",
     "time": 1982,
     "timeDay": 10050,
     "timeWeek": 3197,
@@ -78,17 +78,19 @@
     "url": "$LEGACY_GIVA_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "legacy-giva-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 755,
-    "timeDay": 396,
-    "timeWeek": 196,
-    "timeMonth": 1000,
-    "timeYear": 755,
-    "dailyMinutesDown": {}
+    "time": 749,
+    "timeDay": 406,
+    "timeWeek": 221,
+    "timeMonth": 984,
+    "timeYear": 749,
+    "dailyMinutesDown": {
+      "2024-01-03": 0
+    }
   }
 ]

@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "giva-bot",
     "status": "down",
-    "uptime": "99.21%",
-    "uptimeDay": "91.92%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "99.21%",
-    "time": 1898,
-    "timeDay": 7653,
-    "timeWeek": 2948,
-    "timeMonth": 1898,
-    "timeYear": 1898,
+    "uptime": "97.01%",
+    "uptimeDay": "68.62%",
+    "uptimeWeek": "95.52%",
+    "uptimeMonth": "97.01%",
+    "uptimeYear": "97.01%",
+    "time": 1810,
+    "timeDay": 7664,
+    "timeWeek": 2938,
+    "timeMonth": 1810,
+    "timeYear": 1810,
     "dailyMinutesDown": {
-      "2024-01-03": 116
+      "2024-01-04": 68,
+      "2024-01-03": 384
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 33,
-    "timeWeek": 109,
-    "timeMonth": 111,
-    "timeYear": 111,
+    "time": 106,
+    "timeDay": 40,
+    "timeWeek": 54,
+    "timeMonth": 106,
+    "timeYear": 106,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 118,
-    "timeDay": 196,
-    "timeWeek": 152,
-    "timeMonth": 118,
-    "timeYear": 118,
+    "time": 122,
+    "timeDay": 191,
+    "timeWeek": 168,
+    "timeMonth": 122,
+    "timeYear": 122,
     "dailyMinutesDown": {}
   },
   {
@@ -61,18 +62,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.thenuggetlabs.repl.co.ico",
     "slug": "axis-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "97.78%",
+    "uptimeDay": "76.70%",
+    "uptimeWeek": "96.67%",
+    "uptimeMonth": "97.78%",
+    "uptimeYear": "97.78%",
     "time": 300,
-    "timeDay": 245,
-    "timeWeek": 253,
+    "timeDay": 227,
+    "timeWeek": 269,
     "timeMonth": 300,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-04": 68,
+      "2024-01-03": 267
     }
   },
   {
@@ -81,18 +83,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "legacy-giva-bot",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 749,
-    "timeDay": 406,
-    "timeWeek": 221,
+    "uptime": "99.50%",
+    "uptimeDay": "75.91%",
+    "uptimeWeek": "96.56%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.50%",
+    "time": 742,
+    "timeDay": 385,
+    "timeWeek": 247,
     "timeMonth": 984,
-    "timeYear": 749,
+    "timeYear": 742,
     "dailyMinutesDown": {
-      "2024-01-03": 12
+      "2024-01-04": 68,
+      "2024-01-03": 279
     }
   }
 ]

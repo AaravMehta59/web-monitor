@@ -1,7 +1,7 @@
 url: https://api.thenuggetlabs.repl.co/get/version
-status: down
-code: 404
-responseTime: 199
-lastUpdated: 2024-01-05T23:17:26.194Z
+status: up
+code: 200
+responseTime: 462
+lastUpdated: 2024-01-06T01:22:11.811Z
 startTime: 2023-12-24T12:52:47.447Z
 generator: Upptime <https://github.com/upptime/upptime>

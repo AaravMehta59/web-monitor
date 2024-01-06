@@ -1,7 +1,7 @@
 url: $GIVA_ENDPOINT
-status: down
-code: 404
-responseTime: 322
-lastUpdated: 2024-01-05T23:17:24.723Z
+status: up
+code: 200
+responseTime: 680
+lastUpdated: 2024-01-06T01:22:08.669Z
 startTime: 2023-12-24T12:52:45.796Z
 generator: Upptime <https://github.com/upptime/upptime>
